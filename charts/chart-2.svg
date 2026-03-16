@@ -1,19 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 768 370">
   <rect width="768" height="370" fill="transparent"/>
   <g>
-    <path d="M384,180 L384.000,21.000 A159,159 0 1,1 233.527,128.630 Z" fill="#3b9eff" stroke="rgba(26, 71, 114, 0.5)" stroke-width="1"/>
-    <path d="M384,180 L233.527,128.630 A159,159 0 0,1 281.482,58.464 Z" fill="#ff801f" stroke="rgba(114, 57, 13, 0.5)" stroke-width="1"/>
-    <path d="M384,180 L281.482,58.464 A159,159 0 0,1 352.337,24.184 Z" fill="#9a5cd0" stroke="rgba(69, 41, 93, 0.5)" stroke-width="1"/>
-    <path d="M384,180 L352.337,24.184 A159,159 0 0,1 368.314,21.776 Z" fill="#33b074" stroke="rgba(22, 79, 52, 0.5)" stroke-width="1"/>
-    <path d="M384,180 L368.314,21.776 A159,159 0 0,1 374.865,21.263 Z" fill="#de51a8" stroke="rgba(99, 36, 75, 0.5)" stroke-width="1"/>
-    <path d="M384,180 L374.865,21.263 A159,159 0 0,1 379.544,21.062 Z" fill="#6e6ade" stroke="rgba(49, 47, 99, 0.5)" stroke-width="1"/>
-    <path d="M384,180 L379.544,21.062 A159,159 0 0,1 382.943,21.004 Z" fill="#ffd60a" stroke="rgba(114, 96, 4, 0.5)" stroke-width="1"/>
-    <path d="M384,180 L382.943,21.004 A159,159 0 0,1 384.000,21.000 Z" fill="#ec6142" stroke="rgba(106, 43, 29, 0.5)" stroke-width="1"/>
-    <text x="430.251" y="244.661" text-anchor="middle" dominant-baseline="central" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#eeeeee" stroke="#111111" stroke-width="2" paint-order="stroke">80,24%</text>
-    <text x="318.365" y="135.142" text-anchor="middle" dominant-baseline="central" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#eeeeee" stroke="#111111" stroke-width="2" paint-order="stroke">8,61%</text>
-    <text x="349.377" y="108.435" text-anchor="middle" dominant-baseline="central" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#eeeeee" stroke="#111111" stroke-width="2" paint-order="stroke">7,96%</text>
-    <g opacity="1"><path fill="none" stroke="#777777" stroke-width="1" d="M480.574,315.016L489.883,328.030L513.883,328.030"/><text x="519.883" y="328.030" text-anchor="start" dominant-baseline="central" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#eeeeee" stroke="#111111" stroke-width="2" paint-order="stroke">10.10.7</text></g>
-    <g opacity="1"><path fill="none" stroke="#777777" stroke-width="1" d="M246.950,86.334L233.741,77.306L209.741,77.306"/><text x="203.741" y="77.306" text-anchor="end" dominant-baseline="central" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#eeeeee" stroke="#111111" stroke-width="2" paint-order="stroke">10.10.3</text></g>
-    <g opacity="1"><path fill="none" stroke="#777777" stroke-width="1" d="M311.706,30.569L304.738,16.166L280.738,16.166"/><text x="274.738" y="16.166" text-anchor="end" dominant-baseline="central" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#eeeeee" stroke="#111111" stroke-width="2" paint-order="stroke">10.10.6</text></g>
+    <path d="M384,180 L384.000,21.000 A159,159 0 1,1 233.826,127.762 Z" fill="#3b9eff" stroke="rgba(26, 71, 114, 0.5)" stroke-width="1"/>
+    <path d="M384,180 L233.826,127.762 A159,159 0 0,1 288.431,52.927 Z" fill="#ff801f" stroke="rgba(114, 57, 13, 0.5)" stroke-width="1"/>
+    <path d="M384,180 L288.431,52.927 A159,159 0 0,1 352.502,24.151 Z" fill="#9a5cd0" stroke="rgba(69, 41, 93, 0.5)" stroke-width="1"/>
+    <path d="M384,180 L352.502,24.151 A159,159 0 0,1 368.917,21.717 Z" fill="#33b074" stroke="rgba(22, 79, 52, 0.5)" stroke-width="1"/>
+    <path d="M384,180 L368.917,21.717 A159,159 0 0,1 375.778,21.213 Z" fill="#de51a8" stroke="rgba(99, 36, 75, 0.5)" stroke-width="1"/>
+    <path d="M384,180 L375.778,21.213 A159,159 0 0,1 380.485,21.039 Z" fill="#6e6ade" stroke="rgba(49, 47, 99, 0.5)" stroke-width="1"/>
+    <path d="M384,180 L380.485,21.039 A159,159 0 0,1 383.103,21.003 Z" fill="#ffd60a" stroke="rgba(114, 96, 4, 0.5)" stroke-width="1"/>
+    <path d="M384,180 L383.103,21.003 A159,159 0 0,1 384.000,21.000 Z" fill="#ec6142" stroke="rgba(106, 43, 29, 0.5)" stroke-width="1"/>
+    <text x="430.064" y="244.795" text-anchor="middle" dominant-baseline="central" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#eeeeee" stroke="#111111" stroke-width="2" paint-order="stroke">80,33%</text>
+    <text x="319.779" y="133.140" text-anchor="middle" dominant-baseline="central" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#eeeeee" stroke="#111111" stroke-width="2" paint-order="stroke">9,41%</text>
+    <text x="351.429" y="107.478" text-anchor="middle" dominant-baseline="central" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#eeeeee" stroke="#111111" stroke-width="2" paint-order="stroke">7,09%</text>
+    <g opacity="1"><path fill="none" stroke="#777777" stroke-width="1" d="M480.184,315.295L489.455,328.335L513.455,328.335"/><text x="519.455" y="328.335" text-anchor="start" dominant-baseline="central" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#eeeeee" stroke="#111111" stroke-width="2" paint-order="stroke">10.10.7</text></g>
+    <g opacity="1"><path fill="none" stroke="#777777" stroke-width="1" d="M249.903,82.153L236.978,72.722L212.978,72.722"/><text x="206.978" y="72.722" text-anchor="end" dominant-baseline="central" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#eeeeee" stroke="#111111" stroke-width="2" paint-order="stroke">10.10.3</text></g>
+    <g opacity="1"><path fill="none" stroke="#777777" stroke-width="1" d="M315.990,28.571L309.435,13.976L285.435,13.976"/><text x="279.435" y="13.976" text-anchor="end" dominant-baseline="central" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#eeeeee" stroke="#111111" stroke-width="2" paint-order="stroke">10.10.6</text></g>
   </g>
 </svg>
