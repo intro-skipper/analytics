@@ -2,9 +2,9 @@
 
 | Metric | Value |
 | ------ | ----- |
-| Query Time Range | 2026-04-17T02:32:06Z to 2026-04-18T02:32:06Z |
-| Rows Matched | 135,915 |
-| Elapsed Time | 286620ms |
+| Query Time Range | 2026-04-18T02:48:16Z to 2026-04-19T02:48:16Z |
+| Rows Matched | 138,612 |
+| Elapsed Time | 391669ms |
 
 ## Requests by Jellyfin Server Version
 
@@ -26,42 +26,44 @@
 
 | Agent | Total Count |
 | ----- | ----------- |
-| Jellyfin-Server/10.12.0 | 411 |
-| Jellyfin-Server/10.11.8 | 66,231 |
-| Jellyfin-Server/10.11.7 | 8,716 |
-| Jellyfin-Server/10.11.6 | 31,961 |
-| Jellyfin-Server/10.11.5 | 8,687 |
-| Jellyfin-Server/10.11.4 | 2,068 |
-| Jellyfin-Server/10.11.3 | 1,883 |
-| Jellyfin-Server/10.11.2 | 1,384 |
-| Jellyfin-Server/10.11.1 | 1,917 |
-| Jellyfin-Server/10.11.0 | 1,216 |
-| Jellyfin-Server/10.10.7 | 8,930 |
-| Jellyfin-Server/10.10.6 | 833 |
-| Jellyfin-Server/10.10.5 | 191 |
-| Jellyfin-Server/10.10.4 | 31 |
-| Jellyfin-Server/10.10.3 | 1,124 |
-| Jellyfin-Server/10.10.2 | 11 |
-| Jellyfin-Server/10.10.1 | 72 |
-| Jellyfin-Server/10.10.0 | 56 |
-| Jellyfin-Server/10.9.11 | 72 |
-| Jellyfin-Server/10.9.10 | 9 |
+| Jellyfin-Server/10.12.0 | 372 |
+| Jellyfin-Server/10.11.8 | 69,332 |
+| Jellyfin-Server/10.11.7 | 8,542 |
+| Jellyfin-Server/10.11.6 | 31,759 |
+| Jellyfin-Server/10.11.5 | 8,642 |
+| Jellyfin-Server/10.11.4 | 1,917 |
+| Jellyfin-Server/10.11.3 | 1,910 |
+| Jellyfin-Server/10.11.2 | 1,434 |
+| Jellyfin-Server/10.11.1 | 2,015 |
+| Jellyfin-Server/10.11.0 | 1,030 |
+| Jellyfin-Server/10.10.7 | 9,164 |
+| Jellyfin-Server/10.10.6 | 786 |
+| Jellyfin-Server/10.10.5 | 178 |
+| Jellyfin-Server/10.10.4 | 30 |
+| Jellyfin-Server/10.10.3 | 1,144 |
+| Jellyfin-Server/10.10.2 | 10 |
+| Jellyfin-Server/10.10.1 | 77 |
+| Jellyfin-Server/10.10.0 | 48 |
+| Jellyfin-Server/10.9.11 | 73 |
+| Jellyfin-Server/10.9.10 | 10 |
 | Jellyfin-Server/10.9.9 | 13 |
-| Jellyfin-Server/10.9.8 | 5 |
-| Jellyfin-Server/10.9.7 | 8 |
-| Jellyfin-Server/10.9.6 | 9 |
+| Jellyfin-Server/10.9.8 | 3 |
+| Jellyfin-Server/10.9.7 | 26 |
+| Jellyfin-Server/10.9.6 | 7 |
 | Jellyfin-Server/10.9.4 | 1 |
-| Jellyfin-Server/10.9.3 | 5 |
-| Jellyfin-Server/10.9.2 | 7 |
-| Jellyfin-Server/10.8.13 | 20 |
-| Jellyfin-Server/10.8.12 | 5 |
+| Jellyfin-Server/10.9.3 | 4 |
+| Jellyfin-Server/10.9.2 | 2 |
+| Jellyfin-Server/10.9.0 | 8 |
+| Jellyfin-Server/10.8.13 | 41 |
+| Jellyfin-Server/10.8.12 | 4 |
 | Jellyfin-Server/10.8.11 | 1 |
-| Jellyfin-Server/10.8.10 | 25 |
+| Jellyfin-Server/10.8.10 | 14 |
 | Jellyfin-Server/10.8.9 | 2 |
 | Jellyfin-Server/10.8.8 | 2 |
-| Jellyfin-Server/10.8.7 | 2 |
-| Jellyfin-Server/10.8.4 | 1 |
+| Jellyfin-Server/10.8.7 | 1 |
+| Jellyfin-Server/10.8.4 | 2 |
+| Jellyfin-Server/10.8.1 | 2 |
 | Jellyfin-Server/10.7.7 | 1 |
 
 ---
-*Generated at 2026-04-18T02:32:07.100Z*
+*Generated at 2026-04-19T02:48:16.622Z*
